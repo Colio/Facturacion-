@@ -1,3 +1,6 @@
+/**
+ * Programa Sencillo de Facturacion
+ */
 package Facturar;
 
 public class Menu {
