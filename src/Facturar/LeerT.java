@@ -1,3 +1,6 @@
+/**
+ * Parser
+ */
 package Facturar;
 
 import java.io.*;

@@ -1,3 +1,6 @@
+/**
+ * Ingreso de Clientes
+ */
 package Facturar;
 
 public class FuncionesV {
